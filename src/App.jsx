@@ -4,6 +4,7 @@ import Navbar from './components/Navbar';
 import Home from './routes/Home';
 import About from './routes/About';
 import Contact from './routes/Contact';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -22,7 +23,7 @@ function App() {
         <Route path="/product-details" element={<ProductDetails/>} /> */}
 
       </Routes>
-      {/* <Footer/> */}
+      <Footer />
    </Router>
     </>
   );
