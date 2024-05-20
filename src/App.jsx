@@ -1,7 +1,8 @@
 import './index.css';
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
-import Home from './routes/Home';
 import Navbar from './components/Navbar';
+import Home from './routes/Home';
+import About from './routes/About';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Navbar/>
       <Routes>
         <Route path="/" element={<Home/>} />
+        <Route path="/about" element={<About/>} />
         {/* <Route path="/log-in" element={<LogIn/>} />
         <Route path="/signup" element={<SignUp/>} />
         <Route path="/products" element={<Product/>} />

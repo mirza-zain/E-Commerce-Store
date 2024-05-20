@@ -1,0 +1,27 @@
+@media screen and (max-width: 800px){
+    #main{
+        display: flex;
+        flex-direction: column;
+    }
+    #left{
+        width: 100%;
+        height: 80%;
+        padding: 12px;
+    }
+    #left h1{
+        font-size: 25px;
+    }
+    #left p{
+        width: 100%;
+        font-size: 17px;
+    }
+    #left h2{
+        font-size: 20px;
+    }
+    #left a{
+        font-size: 22px;
+    }
+    #right{
+        display: none;
+    }
+}
