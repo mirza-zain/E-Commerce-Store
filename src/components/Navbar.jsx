@@ -12,12 +12,12 @@ const Navbar = () => {
       }
   return (
     <>
-    <div className='container font-sans text-xl max-w-full h-fit'>
+    <div className='container font-sans text-lg max-w-full h-fit'>
         <div id='left-nav'>
           <a className='text-purple-800 text-2xl font-mono' href='/'>InkWardrobe</a>
         </div>
         <div id='middle-nav'>
-          <a className='font-sans hover:text-purple-700 text-zinc-700' href='/'>Home</a> 
+          <a className='font-sans hover:text-purple-700 text-zinc-700' href='/home'>Home</a> 
           <a className='font-sans hover:text-purple-700 text-zinc-700' href='/about'>About Us</a> 
           <a className='font-sans hover:text-purple-700 text-zinc-700' href='/shop'>Shop</a> 
           <a className='font-sans hover:text-purple-700 text-zinc-700' href='/contact'>Contact Us</a> 
