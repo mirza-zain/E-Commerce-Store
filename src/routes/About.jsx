@@ -6,7 +6,7 @@ const About = () => {
     <>
      <div id='about-main' className='container max-w-full h-svh flex'>
         <div id='about-left' className='bg-blue-400 w-1/2 text-white content-center pl-20'>
-            <h1 className='text-3xl font-bold text-zinc-800 mb-10'>About Us</h1>
+            <h1 className='text-3xl font-bold text-zinc-800 mb-7'>About Us</h1>
             <p className='w-[80%] text-lg text-start font-["Josefin Sans"]'>InkWardrobe draws inspiration from global travels to create unique apparel that reflects your interests - 
             from anime to history, hobbies to everyday life. 
             There's a story waiting to be discovered in every design.

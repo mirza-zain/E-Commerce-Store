@@ -1,0 +1,13 @@
+@media screen and (max-width: 800px){
+    #contact-main{
+        flex-direction: column-reverse;
+    }
+    #contact-left{
+        width: 100%;
+        height: 50%;
+    }
+    #contact-right{
+        height: 50%;
+        width: 100%;
+    }
+}
