@@ -1,0 +1,14 @@
+#shop-main{
+    overflow-x: auto;
+}
+#shop-main::-webkit-scrollbar{
+    display: none;
+}
+
+@media screen and (max-width: 800px){
+    #shop-main h2{
+        left: 0px;
+        top: 5px;
+        bottom: 5px;
+    }
+}
