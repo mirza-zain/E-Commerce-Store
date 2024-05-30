@@ -1,10 +1,10 @@
 import './index.css';
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 import Navbar from './components/Navbar';
-import Home from './routes/Home';
-import About from './routes/About';
-import Contact from './routes/Contact';
-import Shop from './routes/Shop';
+import Home from './pages/Home';
+import About from './pages/About';
+import Contact from './pages/Contact';
+import Shop from './pages/Shop';
 import Footer from './components/Footer';
 
 
