@@ -1,2 +1,2 @@
 # Collecthique Store
-link: ["inkwardrobe.vercel.app"](https://inkwardrobe.vercel.app/)
+link: ["collecthique.vercel.app"](https://collecthique.vercel.app/)
