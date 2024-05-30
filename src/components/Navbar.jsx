@@ -14,7 +14,7 @@ const Navbar = () => {
     <>
     <div className='container font-sans text-lg max-w-full h-fit'>
         <div id='left-nav'>
-          <a className='text-purple-800 text-2xl font-mono font-bold' href='/'>Collecthique</a>
+          <a className='text-purple-800 text-2xl font-mono font-bold' href='/'>COLLECTHIQUE</a>
         </div>
         <div className='text-lg font-bold' id='middle-nav'>
           <a className='font-sans hover:text-purple-700 text-zinc-700' href='/home'>Home</a> 
