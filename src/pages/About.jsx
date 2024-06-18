@@ -13,7 +13,7 @@ const About = () => {
             </p>
             <h2 className='mb-2 mt-3 font-bold text-zinc-700 text-lg'>Find Out More About Us From: </h2>
             <a className='px-1 text-3xl text-zinc-600 hover:text-purple-700 ease-in duration-300' rel='noreferrer' href='https://www.facebook.com/profile.php?id=61559195168021' target="_blank"><ion-icon name="logo-facebook"></ion-icon></a>
-            <a className='px-1 text-3xl text-zinc-600 hover:text-purple-700 ease-in duration-300' rel='noreferrer' href='https://www.instagram.com/inkwardrobe.official/' target="_blank"><ion-icon name="logo-instagram"></ion-icon></a>
+            <a className='px-1 text-3xl text-zinc-600 hover:text-purple-700 ease-in duration-300' rel='noreferrer' href='https://www.instagram.com/collecthique/' target="_blank"><ion-icon name="logo-instagram"></ion-icon></a>
         </div>
         <div id='about-right' className='w-1/2'>
             <img className='w-full h-full object-cover' src='../images/3d.jpg' alt='3dimage' />

@@ -1,0 +1,7955 @@
+[
+  {
+    "id": "6644f606bac11a086f09fcab",
+    "title": "Champion Women's Heritage Cropped T-Shirt",
+    "description": "Champion is back with another addition – the Champion Heritage t-shirt for women. Made with 100% cotton, this jersey puts both comfort and style at the forefront. With the signature “C” Champion logo patch on the left cuff, durable, double-needle stitching throughout the shirt, and a modern, cropped fit – this shirt has all the markings of an instant classic. <br/><p>.: 100% cotton jersey<br/>.: Medium fabric (7.0 oz /yd² (240 g/m²))<br/>.: Modern cropped fit<br/>.: Sewn-in label<br/>.: \"C\" logo on the left sleeve</p>",
+    "tags": [
+      "Crop tops",
+      "Cropped",
+      "Women's Clothing",
+      "Cotton",
+      "Crew neck",
+      "DTG",
+      "T-shirts"
+    ],
+    "options": [
+      {
+        "name": "Colors",
+        "type": "color",
+        "values": [
+          {
+            "id": 2468,
+            "title": "White",
+            "colors": [
+              "#FFFFFF"
+            ]
+          },
+          {
+            "id": 2462,
+            "title": "Black",
+            "colors": [
+              "#18191a"
+            ]
+          },
+          {
+            "id": 2712,
+            "title": "Oxford Grey",
+            "colors": [
+              "#b8b7bc"
+            ]
+          },
+          {
+            "id": 2574,
+            "title": "Pink Candy",
+            "colors": [
+              "#f2c1d9"
+            ]
+          }
+        ],
+        "display_in_preview": true
+      },
+      {
+        "name": "Sizes",
+        "type": "size",
+        "values": [
+          {
+            "id": 13,
+            "title": "XS"
+          },
+          {
+            "id": 1546,
+            "title": "S"
+          },
+          {
+            "id": 1547,
+            "title": "M"
+          },
+          {
+            "id": 1548,
+            "title": "L"
+          },
+          {
+            "id": 1549,
+            "title": "XL"
+          },
+          {
+            "id": 18,
+            "title": "2XL"
+          }
+        ],
+        "display_in_preview": false
+      }
+    ],
+    "variants": [
+      {
+        "id": 72668,
+        "sku": "18364754722615779257",
+        "cost": 2090,
+        "price": 3483,
+        "title": "Black / XS",
+        "grams": 127,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2462,
+          13
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 72669,
+        "sku": "22685261319151721325",
+        "cost": 2090,
+        "price": 3483,
+        "title": "Pink Candy / XS",
+        "grams": 127,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2574,
+          13
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 72670,
+        "sku": "28554833045735259116",
+        "cost": 2090,
+        "price": 3483,
+        "title": "White / XS",
+        "grams": 127,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2468,
+          13
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 72671,
+        "sku": "15042028224285158852",
+        "cost": 2090,
+        "price": 3483,
+        "title": "Black / S",
+        "grams": 139,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2462,
+          1546
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 72672,
+        "sku": "10156426248444448989",
+        "cost": 2090,
+        "price": 3483,
+        "title": "Pink Candy / S",
+        "grams": 139,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2574,
+          1546
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 72673,
+        "sku": "49829687921249415095",
+        "cost": 2090,
+        "price": 3483,
+        "title": "White / S",
+        "grams": 139,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2468,
+          1546
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 72674,
+        "sku": "20006883688846867602",
+        "cost": 2090,
+        "price": 3483,
+        "title": "Black / M",
+        "grams": 153,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2462,
+          1547
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 72675,
+        "sku": "28179982448654539339",
+        "cost": 2090,
+        "price": 3483,
+        "title": "Pink Candy / M",
+        "grams": 153,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2574,
+          1547
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 72676,
+        "sku": "13330235478878271241",
+        "cost": 2090,
+        "price": 3483,
+        "title": "White / M",
+        "grams": 153,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2468,
+          1547
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 72677,
+        "sku": "24543158972531363255",
+        "cost": 2090,
+        "price": 3483,
+        "title": "Black / L",
+        "grams": 167,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2462,
+          1548
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 72678,
+        "sku": "10620607965020628829",
+        "cost": 2090,
+        "price": 3483,
+        "title": "Pink Candy / L",
+        "grams": 167,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2574,
+          1548
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 72679,
+        "sku": "22726848577156268124",
+        "cost": 2090,
+        "price": 3483,
+        "title": "White / L",
+        "grams": 167,
+        "is_enabled": true,
+        "is_default": true,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2468,
+          1548
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 72680,
+        "sku": "12681423142618280692",
+        "cost": 2090,
+        "price": 3483,
+        "title": "Black / XL",
+        "grams": 175,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2462,
+          1549
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 72681,
+        "sku": "20615836969348477477",
+        "cost": 2090,
+        "price": 3483,
+        "title": "Pink Candy / XL",
+        "grams": 175,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2574,
+          1549
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 72682,
+        "sku": "31502411224317019029",
+        "cost": 2090,
+        "price": 3483,
+        "title": "White / XL",
+        "grams": 175,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2468,
+          1549
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 72683,
+        "sku": "25849593391634988316",
+        "cost": 2388,
+        "price": 3980,
+        "title": "Black / 2XL",
+        "grams": 188,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2462,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 72684,
+        "sku": "33006811956950401499",
+        "cost": 2388,
+        "price": 3980,
+        "title": "Pink Candy / 2XL",
+        "grams": 188,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2574,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 72685,
+        "sku": "32066588863714466043",
+        "cost": 2388,
+        "price": 3980,
+        "title": "White / 2XL",
+        "grams": 188,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2468,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 72686,
+        "sku": "50319887119463795205",
+        "cost": 2090,
+        "price": 3483,
+        "title": "Oxford Grey / XS",
+        "grams": 127,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2712,
+          13
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 72687,
+        "sku": "18612670078633694398",
+        "cost": 2090,
+        "price": 3483,
+        "title": "Oxford Grey / S",
+        "grams": 139,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2712,
+          1546
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 72688,
+        "sku": "21474077858841990125",
+        "cost": 2090,
+        "price": 3483,
+        "title": "Oxford Grey / M",
+        "grams": 153,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2712,
+          1547
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 72689,
+        "sku": "26705821313426011293",
+        "cost": 2090,
+        "price": 3483,
+        "title": "Oxford Grey / L",
+        "grams": 167,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2712,
+          1548
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 72690,
+        "sku": "12394053077438391124",
+        "cost": 2090,
+        "price": 3483,
+        "title": "Oxford Grey / XL",
+        "grams": 175,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2712,
+          1549
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 72691,
+        "sku": "27733645194317074067",
+        "cost": 2388,
+        "price": 3980,
+        "title": "Oxford Grey / 2XL",
+        "grams": 188,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2712,
+          18
+        ],
+        "quantity": 1
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images-api.printify.com/mockup/6644f606bac11a086f09fcab/72679/44306/champion-womens-heritage-cropped-t-shirt.jpg?camera_label=front",
+        "variant_ids": [
+          72679,
+          72670,
+          72673,
+          72676,
+          72682,
+          72685
+        ],
+        "position": "front",
+        "is_default": true,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f606bac11a086f09fcab/72679/44307/champion-womens-heritage-cropped-t-shirt.jpg?camera_label=back",
+        "variant_ids": [
+          72679,
+          72670,
+          72673,
+          72676,
+          72682,
+          72685
+        ],
+        "position": "back",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f606bac11a086f09fcab/72679/44315/champion-womens-heritage-cropped-t-shirt.jpg?camera_label=on-person",
+        "variant_ids": [
+          72679,
+          72670,
+          72673,
+          72676,
+          72682,
+          72685
+        ],
+        "position": "front",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f606bac11a086f09fcab/72677/44303/champion-womens-heritage-cropped-t-shirt.jpg?camera_label=front",
+        "variant_ids": [
+          72677,
+          72668,
+          72671,
+          72674,
+          72680,
+          72683
+        ],
+        "position": "front",
+        "is_default": true,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f606bac11a086f09fcab/72677/44332/champion-womens-heritage-cropped-t-shirt.jpg?camera_label=back",
+        "variant_ids": [
+          72677,
+          72668,
+          72671,
+          72674,
+          72680,
+          72683
+        ],
+        "position": "back",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f606bac11a086f09fcab/72677/44330/champion-womens-heritage-cropped-t-shirt.jpg?camera_label=on-person",
+        "variant_ids": [
+          72677,
+          72668,
+          72671,
+          72674,
+          72680,
+          72683
+        ],
+        "position": "front",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f606bac11a086f09fcab/72689/44305/champion-womens-heritage-cropped-t-shirt.jpg?camera_label=front",
+        "variant_ids": [
+          72689,
+          72686,
+          72687,
+          72688,
+          72690,
+          72691
+        ],
+        "position": "front",
+        "is_default": true,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f606bac11a086f09fcab/72689/44308/champion-womens-heritage-cropped-t-shirt.jpg?camera_label=back",
+        "variant_ids": [
+          72689,
+          72686,
+          72687,
+          72688,
+          72690,
+          72691
+        ],
+        "position": "back",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f606bac11a086f09fcab/72689/44314/champion-womens-heritage-cropped-t-shirt.jpg?camera_label=on-person",
+        "variant_ids": [
+          72689,
+          72686,
+          72687,
+          72688,
+          72690,
+          72691
+        ],
+        "position": "front",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f606bac11a086f09fcab/72678/44304/champion-womens-heritage-cropped-t-shirt.jpg?camera_label=front",
+        "variant_ids": [
+          72678,
+          72669,
+          72672,
+          72675,
+          72681,
+          72684
+        ],
+        "position": "front",
+        "is_default": true,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f606bac11a086f09fcab/72678/44310/champion-womens-heritage-cropped-t-shirt.jpg?camera_label=back",
+        "variant_ids": [
+          72678,
+          72669,
+          72672,
+          72675,
+          72681,
+          72684
+        ],
+        "position": "back",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f606bac11a086f09fcab/72678/44313/champion-womens-heritage-cropped-t-shirt.jpg?camera_label=on-person",
+        "variant_ids": [
+          72678,
+          72669,
+          72672,
+          72675,
+          72681,
+          72684
+        ],
+        "position": "front",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      }
+    ],
+    "created_at": "2024-05-15 17:51:02+00:00",
+    "updated_at": "2024-05-15 17:51:14+00:00",
+    "visible": true,
+    "is_locked": false,
+    "blueprint_id": 672,
+    "user_id": 17854626,
+    "shop_id": 15449454,
+    "print_provider_id": 74,
+    "print_areas": [
+      {
+        "variant_ids": [
+          72668,
+          72669,
+          72670,
+          72671,
+          72672,
+          72673,
+          72674,
+          72675,
+          72676,
+          72677,
+          72678,
+          72679,
+          72680,
+          72681,
+          72682,
+          72683,
+          72684,
+          72685,
+          72686,
+          72687,
+          72688,
+          72689,
+          72690,
+          72691
+        ],
+        "placeholders": [
+          {
+            "position": "back",
+            "images": []
+          },
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "6644f56ddd0b6c76a4d700a5",
+                "name": "2.png",
+                "type": "image/png",
+                "height": 1634,
+                "width": 2000,
+                "x": 0.500000000000001,
+                "y": 0.5,
+                "scale": 1.3687457615383385,
+                "angle": 0
+              },
+              {
+                "id": "6644f59f7186faa4e782f82c",
+                "name": "2.png",
+                "type": "image/png",
+                "height": 2042,
+                "width": 2500,
+                "x": 0.47426933580043884,
+                "y": 0.5,
+                "scale": 1.380735266077529,
+                "angle": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "print_details": [],
+    "sales_channel_properties": [],
+    "is_printify_express_eligible": false,
+    "is_printify_express_enabled": false,
+    "is_economy_shipping_eligible": false,
+    "is_economy_shipping_enabled": false
+  },
+  {
+    "id": "6644f4a6f47b669ae90aa3db",
+    "title": "I'm Her Top Banana",
+    "description": "<p>Specially for Couples.</p>",
+    "tags": [
+      "Men's Clothing",
+      "T-shirts",
+      "DTG",
+      "Neck Labels"
+    ],
+    "options": [
+      {
+        "name": "Colors",
+        "type": "color",
+        "values": [
+          {
+            "id": 751,
+            "title": "Solid White",
+            "colors": [
+              "#F9F9F9"
+            ]
+          },
+          {
+            "id": 743,
+            "title": "Solid Light Grey",
+            "colors": [
+              "#b0aeae"
+            ]
+          },
+          {
+            "id": 750,
+            "title": "Solid Black",
+            "colors": [
+              "#050505"
+            ]
+          },
+          {
+            "id": 831,
+            "title": "Heather Grey",
+            "colors": [
+              "#a4a4a3",
+              "#B7B6B5"
+            ]
+          },
+          {
+            "id": 707,
+            "title": "Solid Natural",
+            "colors": [
+              "#f7ecc9",
+              "#f7ecc9"
+            ]
+          },
+          {
+            "id": 749,
+            "title": "Solid Heavy Metal",
+            "colors": [
+              "#353734"
+            ]
+          },
+          {
+            "id": 726,
+            "title": "Solid Kelly Green",
+            "colors": [
+              "#009a48"
+            ]
+          },
+          {
+            "id": 727,
+            "title": "Solid Light Blue",
+            "colors": [
+              "#c5d8e4"
+            ]
+          },
+          {
+            "id": 733,
+            "title": "Solid Turquoise",
+            "colors": [
+              "#0082bf"
+            ]
+          },
+          {
+            "id": 729,
+            "title": "Solid Royal",
+            "colors": [
+              "#003479"
+            ]
+          },
+          {
+            "id": 736,
+            "title": "Solid Midnight Navy",
+            "colors": [
+              "#041e2f"
+            ]
+          },
+          {
+            "id": 721,
+            "title": "Solid Purple Rush",
+            "colors": [
+              "#512d7e"
+            ]
+          },
+          {
+            "id": 2339,
+            "title": "Solid Cardinal Red",
+            "colors": [
+              "#690026"
+            ]
+          },
+          {
+            "id": 712,
+            "title": "Solid Light Pink",
+            "colors": [
+              "#e8a0ad"
+            ]
+          },
+          {
+            "id": 711,
+            "title": "Solid Red",
+            "colors": [
+              "#cd032e"
+            ]
+          }
+        ],
+        "display_in_preview": true
+      },
+      {
+        "name": "Sizes",
+        "type": "size",
+        "values": [
+          {
+            "id": 14,
+            "title": "S"
+          },
+          {
+            "id": 15,
+            "title": "M"
+          },
+          {
+            "id": 16,
+            "title": "L"
+          },
+          {
+            "id": 17,
+            "title": "XL"
+          },
+          {
+            "id": 18,
+            "title": "2XL"
+          },
+          {
+            "id": 19,
+            "title": "3XL"
+          },
+          {
+            "id": 20,
+            "title": "4XL"
+          },
+          {
+            "id": 21,
+            "title": "5XL"
+          }
+        ],
+        "display_in_preview": false
+      }
+    ],
+    "variants": [
+      {
+        "id": 17391,
+        "sku": "28452911896778091622",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Heather Grey / S",
+        "grams": 93,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          831,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17392,
+        "sku": "16256694871240675644",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Heather Grey / M",
+        "grams": 13,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          831,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17393,
+        "sku": "17348456318661461245",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Heather Grey / L",
+        "grams": 142,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          831,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17394,
+        "sku": "18394968993138505374",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Heather Grey / XL",
+        "grams": 170,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          831,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17395,
+        "sku": "21024697015215932960",
+        "cost": 1493,
+        "price": 2488,
+        "title": "Heather Grey / 2XL",
+        "grams": 255,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          831,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17396,
+        "sku": "25008550591461892877",
+        "cost": 1657,
+        "price": 2762,
+        "title": "Heather Grey / 3XL",
+        "grams": 283,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          831,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17427,
+        "sku": "30492614987007252674",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Black / S",
+        "grams": 93,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          750,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17428,
+        "sku": "22201851424261367579",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Black / M",
+        "grams": 13,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          750,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17429,
+        "sku": "31862598416616812994",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Black / L",
+        "grams": 142,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          750,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17430,
+        "sku": "41211813830859011474",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Black / XL",
+        "grams": 170,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          750,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17431,
+        "sku": "18126908862300976998",
+        "cost": 1493,
+        "price": 2488,
+        "title": "Solid Black / 2XL",
+        "grams": 255,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          750,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17432,
+        "sku": "17156808121080379316",
+        "cost": 1657,
+        "price": 2762,
+        "title": "Solid Black / 3XL",
+        "grams": 283,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          750,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17433,
+        "sku": "26019117624747274785",
+        "cost": 1806,
+        "price": 3010,
+        "title": "Solid Black / 4XL",
+        "grams": 340,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          750,
+          20
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17481,
+        "sku": "16393044922240579478",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Heavy Metal / S",
+        "grams": 93,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          749,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17482,
+        "sku": "91103455845484151463",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Heavy Metal / M",
+        "grams": 13,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          749,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17483,
+        "sku": "55270800797970082239",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Heavy Metal / L",
+        "grams": 142,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          749,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17484,
+        "sku": "25445391733678981231",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Heavy Metal / XL",
+        "grams": 170,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          749,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17485,
+        "sku": "26323366876974355322",
+        "cost": 1493,
+        "price": 2488,
+        "title": "Solid Heavy Metal / 2XL",
+        "grams": 255,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          749,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17486,
+        "sku": "28376998481863670985",
+        "cost": 1657,
+        "price": 2762,
+        "title": "Solid Heavy Metal / 3XL",
+        "grams": 283,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          749,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17499,
+        "sku": "42798952622035421494",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Natural / S",
+        "grams": 93,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          707,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17500,
+        "sku": "98910267540355692917",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Natural / M",
+        "grams": 13,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          707,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17501,
+        "sku": "33451670736056286396",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Natural / L",
+        "grams": 142,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          707,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17502,
+        "sku": "51857782958426594711",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Natural / XL",
+        "grams": 170,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          707,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17503,
+        "sku": "32806458432156082231",
+        "cost": 1493,
+        "price": 2488,
+        "title": "Solid Natural / 2XL",
+        "grams": 255,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          707,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17504,
+        "sku": "54307112894303358694",
+        "cost": 1657,
+        "price": 2762,
+        "title": "Solid Natural / 3XL",
+        "grams": 283,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          707,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17508,
+        "sku": "36191313661417737981",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Kelly Green / S",
+        "grams": 93,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          726,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17509,
+        "sku": "30142113924113834253",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Kelly Green / M",
+        "grams": 13,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          726,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17510,
+        "sku": "15422849354704852702",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Kelly Green / L",
+        "grams": 142,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          726,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17511,
+        "sku": "78757508516241952607",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Kelly Green / XL",
+        "grams": 170,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          726,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17512,
+        "sku": "89623732637314735577",
+        "cost": 1493,
+        "price": 2488,
+        "title": "Solid Kelly Green / 2XL",
+        "grams": 255,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          726,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17513,
+        "sku": "47010174627456490917",
+        "cost": 1657,
+        "price": 2762,
+        "title": "Solid Kelly Green / 3XL",
+        "grams": 283,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          726,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17517,
+        "sku": "70282589719866489632",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Light Blue / S",
+        "grams": 93,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          727,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17518,
+        "sku": "17641306224554735222",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Light Blue / M",
+        "grams": 13,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          727,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17519,
+        "sku": "37356197110721501760",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Light Blue / L",
+        "grams": 142,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          727,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17520,
+        "sku": "34458105799487679241",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Light Blue / XL",
+        "grams": 170,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          727,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17521,
+        "sku": "57776790242610398317",
+        "cost": 1493,
+        "price": 2488,
+        "title": "Solid Light Blue / 2XL",
+        "grams": 255,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          727,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17522,
+        "sku": "27606894706378407930",
+        "cost": 1657,
+        "price": 2762,
+        "title": "Solid Light Blue / 3XL",
+        "grams": 283,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          727,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17526,
+        "sku": "19770249094643834576",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Light Grey / S",
+        "grams": 93,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          743,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17527,
+        "sku": "17613429011224349652",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Light Grey / M",
+        "grams": 13,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          743,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17528,
+        "sku": "18544892989633548784",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Light Grey / L",
+        "grams": 142,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          743,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17529,
+        "sku": "22539680083304295990",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Light Grey / XL",
+        "grams": 170,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          743,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17530,
+        "sku": "16051438484111094195",
+        "cost": 1493,
+        "price": 2488,
+        "title": "Solid Light Grey / 2XL",
+        "grams": 255,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          743,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17531,
+        "sku": "12012144479221912538",
+        "cost": 1657,
+        "price": 2762,
+        "title": "Solid Light Grey / 3XL",
+        "grams": 283,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          743,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17544,
+        "sku": "64945889632778784976",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Light Pink / S",
+        "grams": 93,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          712,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17545,
+        "sku": "28809002596069980495",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Light Pink / M",
+        "grams": 13,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          712,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17546,
+        "sku": "16056302449383629176",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Light Pink / L",
+        "grams": 142,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          712,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17547,
+        "sku": "10665236097859193993",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Light Pink / XL",
+        "grams": 170,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          712,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17548,
+        "sku": "21440961806570707081",
+        "cost": 1493,
+        "price": 2488,
+        "title": "Solid Light Pink / 2XL",
+        "grams": 255,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          712,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17549,
+        "sku": "23365385941604280947",
+        "cost": 1657,
+        "price": 2762,
+        "title": "Solid Light Pink / 3XL",
+        "grams": 283,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          712,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17562,
+        "sku": "26247347516932150328",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Midnight Navy / S",
+        "grams": 93,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          736,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17563,
+        "sku": "71130429002830874239",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Midnight Navy / M",
+        "grams": 13,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          736,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17564,
+        "sku": "13556719831917656451",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Midnight Navy / L",
+        "grams": 142,
+        "is_enabled": true,
+        "is_default": true,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          736,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17565,
+        "sku": "25640707007926957810",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Midnight Navy / XL",
+        "grams": 170,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          736,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17566,
+        "sku": "65282640066458859499",
+        "cost": 1493,
+        "price": 2488,
+        "title": "Solid Midnight Navy / 2XL",
+        "grams": 255,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          736,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17567,
+        "sku": "15463069327308319676",
+        "cost": 1657,
+        "price": 2762,
+        "title": "Solid Midnight Navy / 3XL",
+        "grams": 283,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          736,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17580,
+        "sku": "21988481472977133392",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Purple Rush / S",
+        "grams": 93,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          721,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17581,
+        "sku": "86619828075049403931",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Purple Rush / M",
+        "grams": 13,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          721,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17582,
+        "sku": "15015589469663239485",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Purple Rush / L",
+        "grams": 142,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          721,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17583,
+        "sku": "19506145495661702827",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Purple Rush / XL",
+        "grams": 170,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          721,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17584,
+        "sku": "94792747312055310844",
+        "cost": 1493,
+        "price": 2488,
+        "title": "Solid Purple Rush / 2XL",
+        "grams": 255,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          721,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17585,
+        "sku": "33501545128452001855",
+        "cost": 1657,
+        "price": 2762,
+        "title": "Solid Purple Rush / 3XL",
+        "grams": 283,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          721,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17589,
+        "sku": "11296934541699275936",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Red / S",
+        "grams": 93,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          711,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17590,
+        "sku": "91554704137297860717",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Red / M",
+        "grams": 13,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          711,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17591,
+        "sku": "40940641338276406619",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Red / L",
+        "grams": 142,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          711,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17592,
+        "sku": "17447069765924006654",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Red / XL",
+        "grams": 170,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          711,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17593,
+        "sku": "96608357017207525384",
+        "cost": 1493,
+        "price": 2488,
+        "title": "Solid Red / 2XL",
+        "grams": 255,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          711,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17594,
+        "sku": "15648011334259660177",
+        "cost": 1657,
+        "price": 2762,
+        "title": "Solid Red / 3XL",
+        "grams": 283,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          711,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17598,
+        "sku": "12798490690473179104",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Royal / S",
+        "grams": 93,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          729,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17599,
+        "sku": "30341731803125010199",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Royal / M",
+        "grams": 13,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          729,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17600,
+        "sku": "50808999644039671078",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Royal / L",
+        "grams": 142,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          729,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17601,
+        "sku": "25090294689279417347",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Royal / XL",
+        "grams": 170,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          729,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17602,
+        "sku": "12430541589364397695",
+        "cost": 1493,
+        "price": 2488,
+        "title": "Solid Royal / 2XL",
+        "grams": 255,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          729,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17603,
+        "sku": "20411846592000380283",
+        "cost": 1657,
+        "price": 2762,
+        "title": "Solid Royal / 3XL",
+        "grams": 283,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          729,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17625,
+        "sku": "28776227314596898302",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Turquoise / S",
+        "grams": 93,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          733,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17626,
+        "sku": "16259452430908160880",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Turquoise / M",
+        "grams": 13,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          733,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17627,
+        "sku": "26754396585209622367",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Turquoise / L",
+        "grams": 142,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          733,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17628,
+        "sku": "14623325869149994554",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Turquoise / XL",
+        "grams": 170,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          733,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17629,
+        "sku": "15120720084745351180",
+        "cost": 1493,
+        "price": 2488,
+        "title": "Solid Turquoise / 2XL",
+        "grams": 255,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          733,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17630,
+        "sku": "12988465222196537601",
+        "cost": 1657,
+        "price": 2762,
+        "title": "Solid Turquoise / 3XL",
+        "grams": 283,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          733,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17643,
+        "sku": "16235672478806903813",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid White / S",
+        "grams": 93,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          751,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17644,
+        "sku": "16582327986110292446",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid White / M",
+        "grams": 13,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          751,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17645,
+        "sku": "19616311865373078964",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid White / L",
+        "grams": 142,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          751,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17646,
+        "sku": "29022445142421708322",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid White / XL",
+        "grams": 170,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          751,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17647,
+        "sku": "21167999181273048729",
+        "cost": 1493,
+        "price": 2488,
+        "title": "Solid White / 2XL",
+        "grams": 255,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          751,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17648,
+        "sku": "22749160428536916282",
+        "cost": 1657,
+        "price": 2762,
+        "title": "Solid White / 3XL",
+        "grams": 283,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          751,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17649,
+        "sku": "31154019585604108613",
+        "cost": 1806,
+        "price": 3010,
+        "title": "Solid White / 4XL",
+        "grams": 340,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          751,
+          20
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 64932,
+        "sku": "28888087956282897111",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Cardinal Red / S",
+        "grams": 93,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2339,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 64933,
+        "sku": "51829334321733613668",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Cardinal Red / M",
+        "grams": 13,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2339,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 64934,
+        "sku": "21845702085891552759",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Cardinal Red / L",
+        "grams": 142,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2339,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 64935,
+        "sku": "17901427532631587106",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Cardinal Red / XL",
+        "grams": 170,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2339,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 64936,
+        "sku": "14950117734353038027",
+        "cost": 1493,
+        "price": 2488,
+        "title": "Solid Cardinal Red / 2XL",
+        "grams": 255,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2339,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 64937,
+        "sku": "22240634004659122801",
+        "cost": 1657,
+        "price": 2762,
+        "title": "Solid Cardinal Red / 3XL",
+        "grams": 283,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2339,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 101781,
+        "sku": "20427085240703858050",
+        "cost": 1955,
+        "price": 3258,
+        "title": "Solid Black / 5XL",
+        "grams": 100,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          750,
+          21
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 101810,
+        "sku": "32706491130210908157",
+        "cost": 1955,
+        "price": 3258,
+        "title": "Solid White / 5XL",
+        "grams": 100,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          751,
+          21
+        ],
+        "quantity": 1
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images-api.printify.com/mockup/6644f4a6f47b669ae90aa3db/17429/103295/im-her-top-banana.jpg?camera_label=front",
+        "variant_ids": [
+          17429,
+          17427,
+          17428,
+          17430,
+          17431,
+          17432,
+          17433,
+          101781
+        ],
+        "position": "front",
+        "is_default": true,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f4a6f47b669ae90aa3db/17429/103296/im-her-top-banana.jpg?camera_label=back",
+        "variant_ids": [
+          17429,
+          17427,
+          17428,
+          17430,
+          17431,
+          17432,
+          17433,
+          101781
+        ],
+        "position": "back",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f4a6f47b669ae90aa3db/17483/103295/im-her-top-banana.jpg?camera_label=front",
+        "variant_ids": [
+          17483,
+          17481,
+          17482,
+          17484,
+          17485,
+          17486
+        ],
+        "position": "front",
+        "is_default": true,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f4a6f47b669ae90aa3db/17483/103296/im-her-top-banana.jpg?camera_label=back",
+        "variant_ids": [
+          17483,
+          17481,
+          17482,
+          17484,
+          17485,
+          17486
+        ],
+        "position": "back",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f4a6f47b669ae90aa3db/17564/103295/im-her-top-banana.jpg?camera_label=front",
+        "variant_ids": [
+          17564,
+          17562,
+          17563,
+          17565,
+          17566,
+          17567
+        ],
+        "position": "front",
+        "is_default": true,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f4a6f47b669ae90aa3db/17564/103296/im-her-top-banana.jpg?camera_label=back",
+        "variant_ids": [
+          17564,
+          17562,
+          17563,
+          17565,
+          17566,
+          17567
+        ],
+        "position": "back",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f4a6f47b669ae90aa3db/64934/103295/im-her-top-banana.jpg?camera_label=front",
+        "variant_ids": [
+          64934,
+          64932,
+          64933,
+          64935,
+          64936,
+          64937
+        ],
+        "position": "front",
+        "is_default": true,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f4a6f47b669ae90aa3db/64934/103296/im-her-top-banana.jpg?camera_label=back",
+        "variant_ids": [
+          64934,
+          64932,
+          64933,
+          64935,
+          64936,
+          64937
+        ],
+        "position": "back",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f4a6f47b669ae90aa3db/17546/103295/im-her-top-banana.jpg?camera_label=front",
+        "variant_ids": [
+          17546,
+          17544,
+          17545,
+          17547,
+          17548,
+          17549
+        ],
+        "position": "front",
+        "is_default": true,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f4a6f47b669ae90aa3db/17546/103296/im-her-top-banana.jpg?camera_label=back",
+        "variant_ids": [
+          17546,
+          17544,
+          17545,
+          17547,
+          17548,
+          17549
+        ],
+        "position": "back",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f4a6f47b669ae90aa3db/17591/103295/im-her-top-banana.jpg?camera_label=front",
+        "variant_ids": [
+          17591,
+          17589,
+          17590,
+          17592,
+          17593,
+          17594
+        ],
+        "position": "front",
+        "is_default": true,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f4a6f47b669ae90aa3db/17591/103296/im-her-top-banana.jpg?camera_label=back",
+        "variant_ids": [
+          17591,
+          17589,
+          17590,
+          17592,
+          17593,
+          17594
+        ],
+        "position": "back",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      }
+    ],
+    "created_at": "2024-05-15 17:45:10+00:00",
+    "updated_at": "2024-06-18 10:47:35+00:00",
+    "visible": true,
+    "is_locked": true,
+    "blueprint_id": 5,
+    "user_id": 17854626,
+    "shop_id": 15449454,
+    "print_provider_id": 29,
+    "print_areas": [
+      {
+        "variant_ids": [
+          17391,
+          17392,
+          17393,
+          17394,
+          17395,
+          17396,
+          17427,
+          17428,
+          17429,
+          17430,
+          17431,
+          17432,
+          17433,
+          17481,
+          17482,
+          17483,
+          17484,
+          17485,
+          17486,
+          17499,
+          17500,
+          17501,
+          17502,
+          17503,
+          17504,
+          17508,
+          17509,
+          17510,
+          17511,
+          17512,
+          17513,
+          17517,
+          17518,
+          17519,
+          17520,
+          17521,
+          17522,
+          17526,
+          17527,
+          17528,
+          17529,
+          17530,
+          17531,
+          17544,
+          17545,
+          17546,
+          17547,
+          17548,
+          17549,
+          17562,
+          17563,
+          17564,
+          17565,
+          17566,
+          17567,
+          17580,
+          17581,
+          17582,
+          17583,
+          17584,
+          17585,
+          17589,
+          17590,
+          17591,
+          17592,
+          17593,
+          17594,
+          17598,
+          17599,
+          17600,
+          17601,
+          17602,
+          17603,
+          17625,
+          17626,
+          17627,
+          17628,
+          17629,
+          17630,
+          17643,
+          17644,
+          17645,
+          17646,
+          17647,
+          17648,
+          17649,
+          64932,
+          64933,
+          64934,
+          64935,
+          64936,
+          64937,
+          101781,
+          101810
+        ],
+        "placeholders": [
+          {
+            "position": "back",
+            "images": []
+          },
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "6644f461c9422cc76e662127",
+                "name": "1.png",
+                "type": "image/png",
+                "height": 1634,
+                "width": 2000,
+                "x": 0.42315738531001035,
+                "y": 0.5124187642666038,
+                "scale": 1.4216432464352935,
+                "angle": 0
+              }
+            ]
+          },
+          {
+            "position": "neck",
+            "images": [
+              {
+                "id": "5941187eb8e7e37b3f0e62e5",
+                "name": "text_layer.svg",
+                "type": "text/plain",
+                "height": 100,
+                "width": 100,
+                "x": 0.5,
+                "y": 0.5,
+                "scale": 1,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "font_color": "auto",
+        "font_family": "Roboto",
+        "background": "transparent"
+      }
+    ],
+    "print_details": [],
+    "sales_channel_properties": [],
+    "is_printify_express_eligible": false,
+    "is_printify_express_enabled": false,
+    "is_economy_shipping_eligible": true,
+    "is_economy_shipping_enabled": false
+  },
+  {
+    "id": "6644f3feb5c77ffb1d0bd6ef",
+    "title": "Men's Cotton Crew Tee",
+    "description": "This premium fitted short sleeve is a classic choice that is both comfy and light. The high quality print adds a statement to one’s workout or everyday routine.<br/><p>.: The men’s cotton crew tee comes with a light fabric (4.3 oz/yd² (146 g/m²)) making it an excellent all-season choice. Made with 100% combed, ring-spun cotton for long-lasting comfort. <br/>.: The classic fit along with the crew neckline provide a timeless style with neat looks that are perfect for accessorizing. This means it’s a highly versatile choice for both casual and semi-formal events. <br/>.: Fabric blends: Heather colors - 90% cotton, 10% polyester </p>",
+    "tags": [
+      "Men's Clothing",
+      "T-shirts",
+      "DTG",
+      "Neck Labels"
+    ],
+    "options": [
+      {
+        "name": "Colors",
+        "type": "color",
+        "values": [
+          {
+            "id": 751,
+            "title": "Solid White",
+            "colors": [
+              "#F9F9F9"
+            ]
+          },
+          {
+            "id": 743,
+            "title": "Solid Light Grey",
+            "colors": [
+              "#b0aeae"
+            ]
+          },
+          {
+            "id": 750,
+            "title": "Solid Black",
+            "colors": [
+              "#050505"
+            ]
+          },
+          {
+            "id": 831,
+            "title": "Heather Grey",
+            "colors": [
+              "#a4a4a3",
+              "#B7B6B5"
+            ]
+          },
+          {
+            "id": 707,
+            "title": "Solid Natural",
+            "colors": [
+              "#f7ecc9",
+              "#f7ecc9"
+            ]
+          },
+          {
+            "id": 749,
+            "title": "Solid Heavy Metal",
+            "colors": [
+              "#353734"
+            ]
+          },
+          {
+            "id": 726,
+            "title": "Solid Kelly Green",
+            "colors": [
+              "#009a48"
+            ]
+          },
+          {
+            "id": 727,
+            "title": "Solid Light Blue",
+            "colors": [
+              "#c5d8e4"
+            ]
+          },
+          {
+            "id": 733,
+            "title": "Solid Turquoise",
+            "colors": [
+              "#0082bf"
+            ]
+          },
+          {
+            "id": 729,
+            "title": "Solid Royal",
+            "colors": [
+              "#003479"
+            ]
+          },
+          {
+            "id": 736,
+            "title": "Solid Midnight Navy",
+            "colors": [
+              "#041e2f"
+            ]
+          },
+          {
+            "id": 721,
+            "title": "Solid Purple Rush",
+            "colors": [
+              "#512d7e"
+            ]
+          },
+          {
+            "id": 2339,
+            "title": "Solid Cardinal Red",
+            "colors": [
+              "#690026"
+            ]
+          },
+          {
+            "id": 712,
+            "title": "Solid Light Pink",
+            "colors": [
+              "#e8a0ad"
+            ]
+          },
+          {
+            "id": 711,
+            "title": "Solid Red",
+            "colors": [
+              "#cd032e"
+            ]
+          }
+        ],
+        "display_in_preview": true
+      },
+      {
+        "name": "Sizes",
+        "type": "size",
+        "values": [
+          {
+            "id": 14,
+            "title": "S"
+          },
+          {
+            "id": 15,
+            "title": "M"
+          },
+          {
+            "id": 16,
+            "title": "L"
+          },
+          {
+            "id": 17,
+            "title": "XL"
+          },
+          {
+            "id": 18,
+            "title": "2XL"
+          },
+          {
+            "id": 19,
+            "title": "3XL"
+          },
+          {
+            "id": 20,
+            "title": "4XL"
+          },
+          {
+            "id": 21,
+            "title": "5XL"
+          }
+        ],
+        "display_in_preview": false
+      }
+    ],
+    "variants": [
+      {
+        "id": 17391,
+        "sku": "26932698991006450538",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Heather Grey / S",
+        "grams": 93,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          831,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17392,
+        "sku": "28147085930025535331",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Heather Grey / M",
+        "grams": 13,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          831,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17393,
+        "sku": "18940692328578662204",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Heather Grey / L",
+        "grams": 142,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          831,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17394,
+        "sku": "22864249010422725545",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Heather Grey / XL",
+        "grams": 170,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          831,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17395,
+        "sku": "19178650903527468656",
+        "cost": 1493,
+        "price": 2488,
+        "title": "Heather Grey / 2XL",
+        "grams": 255,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          831,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17396,
+        "sku": "76177489002487634408",
+        "cost": 1657,
+        "price": 2762,
+        "title": "Heather Grey / 3XL",
+        "grams": 283,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          831,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17427,
+        "sku": "77078563303141971183",
+        "cost": 1306,
+        "price": 1866,
+        "title": "Solid Black / S",
+        "grams": 93,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          750,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17428,
+        "sku": "63560941962562944597",
+        "cost": 1306,
+        "price": 1866,
+        "title": "Solid Black / M",
+        "grams": 13,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          750,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17429,
+        "sku": "31424212148284819776",
+        "cost": 1306,
+        "price": 1866,
+        "title": "Solid Black / L",
+        "grams": 142,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          750,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17430,
+        "sku": "79780793962089702745",
+        "cost": 1306,
+        "price": 1866,
+        "title": "Solid Black / XL",
+        "grams": 170,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          750,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17431,
+        "sku": "33029303456219266654",
+        "cost": 1493,
+        "price": 2133,
+        "title": "Solid Black / 2XL",
+        "grams": 255,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          750,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17432,
+        "sku": "11767995412558398193",
+        "cost": 1657,
+        "price": 2367,
+        "title": "Solid Black / 3XL",
+        "grams": 283,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          750,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17433,
+        "sku": "25678437653198213945",
+        "cost": 1806,
+        "price": 2580,
+        "title": "Solid Black / 4XL",
+        "grams": 340,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          750,
+          20
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17481,
+        "sku": "30845870843279397519",
+        "cost": 1306,
+        "price": 1866,
+        "title": "Solid Heavy Metal / S",
+        "grams": 93,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          749,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17482,
+        "sku": "22257211309313758954",
+        "cost": 1306,
+        "price": 1866,
+        "title": "Solid Heavy Metal / M",
+        "grams": 13,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          749,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17483,
+        "sku": "38584771372868956683",
+        "cost": 1306,
+        "price": 1866,
+        "title": "Solid Heavy Metal / L",
+        "grams": 142,
+        "is_enabled": true,
+        "is_default": true,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          749,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17484,
+        "sku": "14040011161732615328",
+        "cost": 1306,
+        "price": 1866,
+        "title": "Solid Heavy Metal / XL",
+        "grams": 170,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          749,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17485,
+        "sku": "11699390776352893930",
+        "cost": 1493,
+        "price": 2133,
+        "title": "Solid Heavy Metal / 2XL",
+        "grams": 255,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          749,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17486,
+        "sku": "16274394490763087885",
+        "cost": 1657,
+        "price": 2367,
+        "title": "Solid Heavy Metal / 3XL",
+        "grams": 283,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          749,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17499,
+        "sku": "10337367025118422831",
+        "cost": 1306,
+        "price": 1866,
+        "title": "Solid Natural / S",
+        "grams": 93,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          707,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17500,
+        "sku": "20908123414683413986",
+        "cost": 1306,
+        "price": 1866,
+        "title": "Solid Natural / M",
+        "grams": 13,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          707,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17501,
+        "sku": "12934561598369109984",
+        "cost": 1306,
+        "price": 1866,
+        "title": "Solid Natural / L",
+        "grams": 142,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          707,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17502,
+        "sku": "76288377581459462758",
+        "cost": 1306,
+        "price": 1866,
+        "title": "Solid Natural / XL",
+        "grams": 170,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          707,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17503,
+        "sku": "28937334008076924573",
+        "cost": 1493,
+        "price": 2133,
+        "title": "Solid Natural / 2XL",
+        "grams": 255,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          707,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17504,
+        "sku": "13244976744988423431",
+        "cost": 1657,
+        "price": 2367,
+        "title": "Solid Natural / 3XL",
+        "grams": 283,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          707,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17508,
+        "sku": "25973693478792099619",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Kelly Green / S",
+        "grams": 93,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          726,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17509,
+        "sku": "11520895237787384944",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Kelly Green / M",
+        "grams": 13,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          726,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17510,
+        "sku": "14704329446002573393",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Kelly Green / L",
+        "grams": 142,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          726,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17511,
+        "sku": "14952984738125500374",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Kelly Green / XL",
+        "grams": 170,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          726,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17512,
+        "sku": "10840008835147122984",
+        "cost": 1493,
+        "price": 2488,
+        "title": "Solid Kelly Green / 2XL",
+        "grams": 255,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          726,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17513,
+        "sku": "27739768242383044530",
+        "cost": 1657,
+        "price": 2762,
+        "title": "Solid Kelly Green / 3XL",
+        "grams": 283,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          726,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17517,
+        "sku": "32849540762470409529",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Light Blue / S",
+        "grams": 93,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          727,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17518,
+        "sku": "32430431289169654310",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Light Blue / M",
+        "grams": 13,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          727,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17519,
+        "sku": "13680938669746759874",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Light Blue / L",
+        "grams": 142,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          727,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17520,
+        "sku": "55553103136016019469",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Light Blue / XL",
+        "grams": 170,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          727,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17521,
+        "sku": "90237370028009408248",
+        "cost": 1493,
+        "price": 2488,
+        "title": "Solid Light Blue / 2XL",
+        "grams": 255,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          727,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17522,
+        "sku": "22511980661745184514",
+        "cost": 1657,
+        "price": 2762,
+        "title": "Solid Light Blue / 3XL",
+        "grams": 283,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          727,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17526,
+        "sku": "30596952653219181719",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Light Grey / S",
+        "grams": 93,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          743,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17527,
+        "sku": "33051959051993209344",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Light Grey / M",
+        "grams": 13,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          743,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17528,
+        "sku": "31654203061047662857",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Light Grey / L",
+        "grams": 142,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          743,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17529,
+        "sku": "11199002169818352598",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Light Grey / XL",
+        "grams": 170,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          743,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17530,
+        "sku": "15321188742234069779",
+        "cost": 1493,
+        "price": 2488,
+        "title": "Solid Light Grey / 2XL",
+        "grams": 255,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          743,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17531,
+        "sku": "24676373707072463626",
+        "cost": 1657,
+        "price": 2762,
+        "title": "Solid Light Grey / 3XL",
+        "grams": 283,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          743,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17544,
+        "sku": "30281362396364524716",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Light Pink / S",
+        "grams": 93,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          712,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17545,
+        "sku": "14434225817768808833",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Light Pink / M",
+        "grams": 13,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          712,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17546,
+        "sku": "12255441237501502441",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Light Pink / L",
+        "grams": 142,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          712,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17547,
+        "sku": "11805671827115128579",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Light Pink / XL",
+        "grams": 170,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          712,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17548,
+        "sku": "99237096952873697071",
+        "cost": 1493,
+        "price": 2488,
+        "title": "Solid Light Pink / 2XL",
+        "grams": 255,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          712,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17549,
+        "sku": "83447159611373558783",
+        "cost": 1657,
+        "price": 2762,
+        "title": "Solid Light Pink / 3XL",
+        "grams": 283,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          712,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17562,
+        "sku": "24343907818263965620",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Midnight Navy / S",
+        "grams": 93,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          736,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17563,
+        "sku": "17288306863074924017",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Midnight Navy / M",
+        "grams": 13,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          736,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17564,
+        "sku": "19382761607460797805",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Midnight Navy / L",
+        "grams": 142,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          736,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17565,
+        "sku": "17406945786895194849",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Midnight Navy / XL",
+        "grams": 170,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          736,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17566,
+        "sku": "26452776535245239116",
+        "cost": 1493,
+        "price": 2488,
+        "title": "Solid Midnight Navy / 2XL",
+        "grams": 255,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          736,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17567,
+        "sku": "58985884518604295116",
+        "cost": 1657,
+        "price": 2762,
+        "title": "Solid Midnight Navy / 3XL",
+        "grams": 283,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          736,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17580,
+        "sku": "20192552800083384476",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Purple Rush / S",
+        "grams": 93,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          721,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17581,
+        "sku": "12079837360987791635",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Purple Rush / M",
+        "grams": 13,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          721,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17582,
+        "sku": "10110619578068492581",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Purple Rush / L",
+        "grams": 142,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          721,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17583,
+        "sku": "25698443864538473440",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Purple Rush / XL",
+        "grams": 170,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          721,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17584,
+        "sku": "22667693436822316223",
+        "cost": 1493,
+        "price": 2488,
+        "title": "Solid Purple Rush / 2XL",
+        "grams": 255,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          721,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17585,
+        "sku": "41299009152416900846",
+        "cost": 1657,
+        "price": 2762,
+        "title": "Solid Purple Rush / 3XL",
+        "grams": 283,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          721,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17589,
+        "sku": "32965323717456226511",
+        "cost": 1306,
+        "price": 1866,
+        "title": "Solid Red / S",
+        "grams": 93,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          711,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17590,
+        "sku": "11333893726117783723",
+        "cost": 1306,
+        "price": 1866,
+        "title": "Solid Red / M",
+        "grams": 13,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          711,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17591,
+        "sku": "14778776218263993654",
+        "cost": 1306,
+        "price": 1866,
+        "title": "Solid Red / L",
+        "grams": 142,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          711,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17592,
+        "sku": "28821603353153888162",
+        "cost": 1306,
+        "price": 1866,
+        "title": "Solid Red / XL",
+        "grams": 170,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          711,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17593,
+        "sku": "14665662750617162611",
+        "cost": 1493,
+        "price": 2133,
+        "title": "Solid Red / 2XL",
+        "grams": 255,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          711,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17594,
+        "sku": "33120201941438324681",
+        "cost": 1657,
+        "price": 2367,
+        "title": "Solid Red / 3XL",
+        "grams": 283,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          711,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17598,
+        "sku": "96575301174304406574",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Royal / S",
+        "grams": 93,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          729,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17599,
+        "sku": "86991170551343586417",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Royal / M",
+        "grams": 13,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          729,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17600,
+        "sku": "31561444029301158394",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Royal / L",
+        "grams": 142,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          729,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17601,
+        "sku": "77752285696803943752",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Royal / XL",
+        "grams": 170,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          729,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17602,
+        "sku": "11632839724674115031",
+        "cost": 1493,
+        "price": 2488,
+        "title": "Solid Royal / 2XL",
+        "grams": 255,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          729,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17603,
+        "sku": "97349084223561943682",
+        "cost": 1657,
+        "price": 2762,
+        "title": "Solid Royal / 3XL",
+        "grams": 283,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          729,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17625,
+        "sku": "78381534689627281226",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Turquoise / S",
+        "grams": 93,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          733,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17626,
+        "sku": "10380589506830797313",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Turquoise / M",
+        "grams": 13,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          733,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17627,
+        "sku": "67249234248180863710",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Turquoise / L",
+        "grams": 142,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          733,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17628,
+        "sku": "17520948493955707994",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Turquoise / XL",
+        "grams": 170,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          733,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17629,
+        "sku": "28065608163091316502",
+        "cost": 1493,
+        "price": 2488,
+        "title": "Solid Turquoise / 2XL",
+        "grams": 255,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          733,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17630,
+        "sku": "89682855443588640256",
+        "cost": 1657,
+        "price": 2762,
+        "title": "Solid Turquoise / 3XL",
+        "grams": 283,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          733,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17643,
+        "sku": "33012213095576952608",
+        "cost": 1306,
+        "price": 1866,
+        "title": "Solid White / S",
+        "grams": 93,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          751,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17644,
+        "sku": "92628214591527835323",
+        "cost": 1306,
+        "price": 1866,
+        "title": "Solid White / M",
+        "grams": 13,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          751,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17645,
+        "sku": "83251745580603338485",
+        "cost": 1306,
+        "price": 1866,
+        "title": "Solid White / L",
+        "grams": 142,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          751,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17646,
+        "sku": "18372183494082432713",
+        "cost": 1306,
+        "price": 1866,
+        "title": "Solid White / XL",
+        "grams": 170,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          751,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17647,
+        "sku": "51008724876078060467",
+        "cost": 1493,
+        "price": 2133,
+        "title": "Solid White / 2XL",
+        "grams": 255,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          751,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17648,
+        "sku": "33094058660727334285",
+        "cost": 1657,
+        "price": 2367,
+        "title": "Solid White / 3XL",
+        "grams": 283,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          751,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17649,
+        "sku": "13040713552527207795",
+        "cost": 1806,
+        "price": 2580,
+        "title": "Solid White / 4XL",
+        "grams": 340,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          751,
+          20
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 64932,
+        "sku": "23913214646680157625",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Cardinal Red / S",
+        "grams": 93,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2339,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 64933,
+        "sku": "80305059490877373352",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Cardinal Red / M",
+        "grams": 13,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2339,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 64934,
+        "sku": "41657832729258067240",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Cardinal Red / L",
+        "grams": 142,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2339,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 64935,
+        "sku": "15988722729326761926",
+        "cost": 1306,
+        "price": 2177,
+        "title": "Solid Cardinal Red / XL",
+        "grams": 170,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2339,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 64936,
+        "sku": "32564711458514084203",
+        "cost": 1493,
+        "price": 2488,
+        "title": "Solid Cardinal Red / 2XL",
+        "grams": 255,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2339,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 64937,
+        "sku": "29392855737112542909",
+        "cost": 1657,
+        "price": 2762,
+        "title": "Solid Cardinal Red / 3XL",
+        "grams": 283,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2339,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 101781,
+        "sku": "14611570479740798400",
+        "cost": 1955,
+        "price": 2793,
+        "title": "Solid Black / 5XL",
+        "grams": 100,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          750,
+          21
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 101810,
+        "sku": "21831670086318599048",
+        "cost": 1955,
+        "price": 2793,
+        "title": "Solid White / 5XL",
+        "grams": 100,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          751,
+          21
+        ],
+        "quantity": 1
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images-api.printify.com/mockup/6644f3feb5c77ffb1d0bd6ef/17645/103295/mens-cotton-crew-tee.jpg?camera_label=front",
+        "variant_ids": [
+          17645,
+          17643,
+          17644,
+          17646,
+          17647,
+          17648,
+          17649,
+          101810
+        ],
+        "position": "front",
+        "is_default": true,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f3feb5c77ffb1d0bd6ef/17645/103296/mens-cotton-crew-tee.jpg?camera_label=back",
+        "variant_ids": [
+          17645,
+          17643,
+          17644,
+          17646,
+          17647,
+          17648,
+          17649,
+          101810
+        ],
+        "position": "back",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f3feb5c77ffb1d0bd6ef/17429/103295/mens-cotton-crew-tee.jpg?camera_label=front",
+        "variant_ids": [
+          17429,
+          17427,
+          17428,
+          17430,
+          17431,
+          17432,
+          17433,
+          101781
+        ],
+        "position": "front",
+        "is_default": true,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f3feb5c77ffb1d0bd6ef/17429/103296/mens-cotton-crew-tee.jpg?camera_label=back",
+        "variant_ids": [
+          17429,
+          17427,
+          17428,
+          17430,
+          17431,
+          17432,
+          17433,
+          101781
+        ],
+        "position": "back",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f3feb5c77ffb1d0bd6ef/17501/103295/mens-cotton-crew-tee.jpg?camera_label=front",
+        "variant_ids": [
+          17501,
+          17499,
+          17500,
+          17502,
+          17503,
+          17504
+        ],
+        "position": "front",
+        "is_default": true,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f3feb5c77ffb1d0bd6ef/17501/103296/mens-cotton-crew-tee.jpg?camera_label=back",
+        "variant_ids": [
+          17501,
+          17499,
+          17500,
+          17502,
+          17503,
+          17504
+        ],
+        "position": "back",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f3feb5c77ffb1d0bd6ef/17483/103295/mens-cotton-crew-tee.jpg?camera_label=front",
+        "variant_ids": [
+          17483,
+          17481,
+          17482,
+          17484,
+          17485,
+          17486
+        ],
+        "position": "front",
+        "is_default": true,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f3feb5c77ffb1d0bd6ef/17483/103296/mens-cotton-crew-tee.jpg?camera_label=back",
+        "variant_ids": [
+          17483,
+          17481,
+          17482,
+          17484,
+          17485,
+          17486
+        ],
+        "position": "back",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f3feb5c77ffb1d0bd6ef/17591/103295/mens-cotton-crew-tee.jpg?camera_label=front",
+        "variant_ids": [
+          17591,
+          17589,
+          17590,
+          17592,
+          17593,
+          17594
+        ],
+        "position": "front",
+        "is_default": true,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/6644f3feb5c77ffb1d0bd6ef/17591/103296/mens-cotton-crew-tee.jpg?camera_label=back",
+        "variant_ids": [
+          17591,
+          17589,
+          17590,
+          17592,
+          17593,
+          17594
+        ],
+        "position": "back",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      }
+    ],
+    "created_at": "2024-05-15 17:42:22+00:00",
+    "updated_at": "2024-05-15 17:42:57+00:00",
+    "visible": true,
+    "is_locked": false,
+    "blueprint_id": 5,
+    "user_id": 17854626,
+    "shop_id": 15449454,
+    "print_provider_id": 29,
+    "print_areas": [
+      {
+        "variant_ids": [
+          17391,
+          17392,
+          17393,
+          17394,
+          17395,
+          17396,
+          17427,
+          17428,
+          17429,
+          17430,
+          17431,
+          17432,
+          17433,
+          17481,
+          17482,
+          17483,
+          17484,
+          17485,
+          17486,
+          17499,
+          17500,
+          17501,
+          17502,
+          17503,
+          17504,
+          17508,
+          17509,
+          17510,
+          17511,
+          17512,
+          17513,
+          17517,
+          17518,
+          17519,
+          17520,
+          17521,
+          17522,
+          17526,
+          17527,
+          17528,
+          17529,
+          17530,
+          17531,
+          17544,
+          17545,
+          17546,
+          17547,
+          17548,
+          17549,
+          17562,
+          17563,
+          17564,
+          17565,
+          17566,
+          17567,
+          17580,
+          17581,
+          17582,
+          17583,
+          17584,
+          17585,
+          17589,
+          17590,
+          17591,
+          17592,
+          17593,
+          17594,
+          17598,
+          17599,
+          17600,
+          17601,
+          17602,
+          17603,
+          17625,
+          17626,
+          17627,
+          17628,
+          17629,
+          17630,
+          17643,
+          17644,
+          17645,
+          17646,
+          17647,
+          17648,
+          17649,
+          64932,
+          64933,
+          64934,
+          64935,
+          64936,
+          64937,
+          101781,
+          101810
+        ],
+        "placeholders": [
+          {
+            "position": "back",
+            "images": []
+          },
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "663932905fbea04ed496cf32",
+                "name": "Inspiring Quote Typography T-Shirt.png",
+                "type": "image/png",
+                "height": 2750,
+                "width": 2139,
+                "x": 0.4999999999999998,
+                "y": 0.4999910974148221,
+                "scale": 0.8815272727272708,
+                "angle": 0
+              }
+            ]
+          },
+          {
+            "position": "neck",
+            "images": [
+              {
+                "id": "5941187eb8e7e37b3f0e62e5",
+                "name": "text_layer.svg",
+                "type": "text/plain",
+                "height": 100,
+                "width": 100,
+                "x": 0.5,
+                "y": 0.5,
+                "scale": 1,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "font_color": "auto",
+        "font_family": "Roboto",
+        "background": "transparent"
+      }
+    ],
+    "print_details": [],
+    "sales_channel_properties": [],
+    "is_printify_express_eligible": false,
+    "is_printify_express_enabled": false,
+    "is_economy_shipping_eligible": true,
+    "is_economy_shipping_enabled": false
+  },
+  {
+    "id": "663873d50f279198f009c70d",
+    "title": "Champion Hoodie",
+    "description": "Released by the American heritage brand, Champion, this eco hooded sweatshirt is ideal for customization. It features Champion’s Double Dry® technology - keeping the wearer warm and toasty. It is a medium-weight two-ply fleece hoodie in a regular fit with a spacious pocket. The hoodie has the iconic \"C\" logo on the left sleeve and is made of up to 5% recycled polyester from plastic bottles.<br/><p>.: 50% cotton, 50% polyester<br/>.: Medium heavy fabric (9 oz /yd² (310 g/m²))<br/>.: Regular fit<br/>.: Sewn in label<br/>.: \"C\" logo on the left sleeve</p>",
+    "tags": [
+      "Men's Clothing",
+      "Hoodies",
+      "Women's Clothing",
+      "Unisex",
+      "Long Sleeves",
+      "DTG",
+      "Crew neck",
+      "Mother’s Day promotion"
+    ],
+    "options": [
+      {
+        "name": "Colors",
+        "type": "color",
+        "values": [
+          {
+            "id": 2468,
+            "title": "White",
+            "colors": [
+              "#FFFFFF"
+            ]
+          },
+          {
+            "id": 2464,
+            "title": "Light Steel",
+            "colors": [
+              "#C8C8C8"
+            ]
+          },
+          {
+            "id": 2463,
+            "title": "Charcoal Heather",
+            "colors": [
+              "#484646"
+            ]
+          },
+          {
+            "id": 2512,
+            "title": "Dark Green",
+            "colors": [
+              "#152e15"
+            ]
+          },
+          {
+            "id": 2467,
+            "title": "Royal Blue",
+            "colors": [
+              "#0063af"
+            ]
+          },
+          {
+            "id": 2465,
+            "title": "Navy",
+            "colors": [
+              "#072846"
+            ]
+          },
+          {
+            "id": 2462,
+            "title": "Black",
+            "colors": [
+              "#18191a"
+            ]
+          }
+        ],
+        "display_in_preview": true
+      },
+      {
+        "name": "Sizes",
+        "type": "size",
+        "values": [
+          {
+            "id": 14,
+            "title": "S"
+          },
+          {
+            "id": 15,
+            "title": "M"
+          },
+          {
+            "id": 16,
+            "title": "L"
+          },
+          {
+            "id": 17,
+            "title": "XL"
+          },
+          {
+            "id": 18,
+            "title": "2XL"
+          }
+        ],
+        "display_in_preview": false
+      }
+    ],
+    "variants": [
+      {
+        "id": 68853,
+        "sku": "12415783517237170266",
+        "cost": 3740,
+        "price": 6233,
+        "title": "Black / S",
+        "grams": 482,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2462,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68854,
+        "sku": "30792876147168106842",
+        "cost": 3740,
+        "price": 6233,
+        "title": "Charcoal Heather / S",
+        "grams": 482,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2463,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68855,
+        "sku": "33735738415741700258",
+        "cost": 3740,
+        "price": 6233,
+        "title": "Light Steel / S",
+        "grams": 482,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2464,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68857,
+        "sku": "31297295708733390384",
+        "cost": 3740,
+        "price": 6233,
+        "title": "Navy / S",
+        "grams": 482,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2465,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68859,
+        "sku": "19211098407680052786",
+        "cost": 3740,
+        "price": 6233,
+        "title": "Royal Blue / S",
+        "grams": 482,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2467,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68860,
+        "sku": "16068028990344451933",
+        "cost": 3636,
+        "price": 6060,
+        "title": "White / S",
+        "grams": 482,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2468,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68861,
+        "sku": "27488887473175585397",
+        "cost": 3740,
+        "price": 6233,
+        "title": "Black / M",
+        "grams": 485,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2462,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68862,
+        "sku": "22840150302934315606",
+        "cost": 3740,
+        "price": 6233,
+        "title": "Charcoal Heather / M",
+        "grams": 485,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2463,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68863,
+        "sku": "32893661741892252919",
+        "cost": 3740,
+        "price": 6233,
+        "title": "Light Steel / M",
+        "grams": 485,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2464,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68865,
+        "sku": "55155963360875403964",
+        "cost": 3740,
+        "price": 6233,
+        "title": "Navy / M",
+        "grams": 485,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2465,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68867,
+        "sku": "19396990667129605728",
+        "cost": 3740,
+        "price": 6233,
+        "title": "Royal Blue / M",
+        "grams": 485,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2467,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68868,
+        "sku": "25147987519466057450",
+        "cost": 3724,
+        "price": 6207,
+        "title": "White / M",
+        "grams": 485,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2468,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68869,
+        "sku": "39911174727119089532",
+        "cost": 3740,
+        "price": 6233,
+        "title": "Black / L",
+        "grams": 541,
+        "is_enabled": true,
+        "is_default": true,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2462,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68870,
+        "sku": "44081720722058993168",
+        "cost": 3740,
+        "price": 6233,
+        "title": "Charcoal Heather / L",
+        "grams": 541,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2463,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68871,
+        "sku": "21620934225996767851",
+        "cost": 3740,
+        "price": 6233,
+        "title": "Light Steel / L",
+        "grams": 541,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2464,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68873,
+        "sku": "29109905029273154949",
+        "cost": 3740,
+        "price": 6233,
+        "title": "Navy / L",
+        "grams": 541,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2465,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68875,
+        "sku": "95652045413212640826",
+        "cost": 3740,
+        "price": 6233,
+        "title": "Royal Blue / L",
+        "grams": 541,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2467,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68876,
+        "sku": "23199865628301449949",
+        "cost": 3724,
+        "price": 6207,
+        "title": "White / L",
+        "grams": 541,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2468,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68877,
+        "sku": "22661848139710990883",
+        "cost": 3740,
+        "price": 6233,
+        "title": "Black / XL",
+        "grams": 587,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2462,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68878,
+        "sku": "19068843066584870010",
+        "cost": 3740,
+        "price": 6233,
+        "title": "Charcoal Heather / XL",
+        "grams": 587,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2463,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68879,
+        "sku": "10835936827776438531",
+        "cost": 3740,
+        "price": 6233,
+        "title": "Light Steel / XL",
+        "grams": 587,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2464,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68881,
+        "sku": "13227829669226911340",
+        "cost": 3740,
+        "price": 6233,
+        "title": "Navy / XL",
+        "grams": 587,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2465,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68883,
+        "sku": "25062064533005877337",
+        "cost": 3740,
+        "price": 6233,
+        "title": "Royal Blue / XL",
+        "grams": 587,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2467,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68884,
+        "sku": "31702407097072552351",
+        "cost": 3724,
+        "price": 6207,
+        "title": "White / XL",
+        "grams": 587,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2468,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68885,
+        "sku": "24108404365764336370",
+        "cost": 4167,
+        "price": 6945,
+        "title": "Black / 2XL",
+        "grams": 644,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2462,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68886,
+        "sku": "59483777369105062636",
+        "cost": 4167,
+        "price": 6945,
+        "title": "Charcoal Heather / 2XL",
+        "grams": 644,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2463,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68887,
+        "sku": "31619563628418476516",
+        "cost": 4167,
+        "price": 6945,
+        "title": "Light Steel / 2XL",
+        "grams": 644,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2464,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68889,
+        "sku": "33338258379958316257",
+        "cost": 4167,
+        "price": 6945,
+        "title": "Navy / 2XL",
+        "grams": 644,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2465,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68891,
+        "sku": "73497007174986131812",
+        "cost": 4167,
+        "price": 6945,
+        "title": "Royal Blue / 2XL",
+        "grams": 644,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2467,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 68892,
+        "sku": "53839210928886859530",
+        "cost": 4133,
+        "price": 6888,
+        "title": "White / 2XL",
+        "grams": 644,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2468,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 70478,
+        "sku": "32352641238530774627",
+        "cost": 3740,
+        "price": 6233,
+        "title": "Dark Green / S",
+        "grams": 482,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2512,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 70481,
+        "sku": "22145946127547745726",
+        "cost": 3740,
+        "price": 6233,
+        "title": "Dark Green / M",
+        "grams": 485,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2512,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 70484,
+        "sku": "30628912073440007044",
+        "cost": 3740,
+        "price": 6233,
+        "title": "Dark Green / L",
+        "grams": 541,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2512,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 70487,
+        "sku": "25341037817519508334",
+        "cost": 3740,
+        "price": 6233,
+        "title": "Dark Green / XL",
+        "grams": 587,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2512,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 70490,
+        "sku": "92949722095866179335",
+        "cost": 4167,
+        "price": 6945,
+        "title": "Dark Green / 2XL",
+        "grams": 644,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2512,
+          18
+        ],
+        "quantity": 1
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images-api.printify.com/mockup/663873d50f279198f009c70d/68869/33567/champion-hoodie.jpg?camera_label=front",
+        "variant_ids": [
+          68869,
+          68853,
+          68861,
+          68877,
+          68885
+        ],
+        "position": "front",
+        "is_default": true,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/663873d50f279198f009c70d/68869/11805/champion-hoodie.jpg?camera_label=back",
+        "variant_ids": [
+          68869,
+          68853,
+          68861,
+          68877,
+          68885
+        ],
+        "position": "back",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/663873d50f279198f009c70d/68869/11850/champion-hoodie.jpg?camera_label=lifestyle-man",
+        "variant_ids": [
+          68869,
+          68853,
+          68861,
+          68877,
+          68885
+        ],
+        "position": "other",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/663873d50f279198f009c70d/68869/11827/champion-hoodie.jpg?camera_label=lifestyle-woman",
+        "variant_ids": [
+          68869,
+          68853,
+          68861,
+          68877,
+          68885
+        ],
+        "position": "other",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      }
+    ],
+    "created_at": "2024-05-06 06:08:21+00:00",
+    "updated_at": "2024-05-06 07:35:41+00:00",
+    "visible": true,
+    "is_locked": false,
+    "blueprint_id": 528,
+    "user_id": 17854626,
+    "shop_id": 15449454,
+    "print_provider_id": 45,
+    "print_areas": [
+      {
+        "variant_ids": [
+          68853,
+          68854,
+          68855,
+          68857,
+          68859,
+          68860,
+          68861,
+          68862,
+          68863,
+          68865,
+          68867,
+          68868,
+          68869,
+          68870,
+          68871,
+          68873,
+          68875,
+          68876,
+          68877,
+          68878,
+          68879,
+          68881,
+          68883,
+          68884,
+          68885,
+          68886,
+          68887,
+          68889,
+          68891,
+          68892,
+          70478,
+          70481,
+          70484,
+          70487,
+          70490
+        ],
+        "placeholders": [
+          {
+            "position": "back",
+            "images": []
+          },
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "661d8104a27bcedd5fa704e5",
+                "name": "d1.png",
+                "type": "image/png",
+                "height": 2000,
+                "width": 1556,
+                "x": 0.4878587181695397,
+                "y": 0.5809589056306435,
+                "scale": 0.9544521524949722,
+                "angle": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "print_details": [],
+    "sales_channel_properties": [],
+    "is_printify_express_eligible": false,
+    "is_printify_express_enabled": false,
+    "is_economy_shipping_eligible": false,
+    "is_economy_shipping_enabled": false
+  },
+  {
+    "id": "661d830e697c9a1c1e051ac4",
+    "title": "Men's Cotton Crew Tee",
+    "description": "This premium fitted short sleeve is a classic choice that is both comfy and light. The high quality print adds a statement to one’s workout or everyday routine.<br/><p>.: The men’s cotton crew tee comes with a light fabric (4.3 oz/yd² (146 g/m²)) making it an excellent all-season choice. Made with 100% combed, ring-spun cotton for long-lasting comfort. <br/>.: The classic fit along with the crew neckline provide a timeless style with neat looks that are perfect for accessorizing. This means it’s a highly versatile choice for both casual and semi-formal events. <br/>.: Fabric blends: Heather colors - 90% cotton, 10% polyester </p>",
+    "tags": [
+      "Men's Clothing",
+      "T-shirts",
+      "DTG",
+      "Neck Labels"
+    ],
+    "options": [
+      {
+        "name": "Colors",
+        "type": "color",
+        "values": [
+          {
+            "id": 751,
+            "title": "Solid White",
+            "colors": [
+              "#F9F9F9"
+            ]
+          },
+          {
+            "id": 743,
+            "title": "Solid Light Grey",
+            "colors": [
+              "#b0aeae"
+            ]
+          },
+          {
+            "id": 750,
+            "title": "Solid Black",
+            "colors": [
+              "#050505"
+            ]
+          },
+          {
+            "id": 831,
+            "title": "Heather Grey",
+            "colors": [
+              "#a4a4a3",
+              "#B7B6B5"
+            ]
+          },
+          {
+            "id": 707,
+            "title": "Solid Natural",
+            "colors": [
+              "#f7ecc9",
+              "#f7ecc9"
+            ]
+          },
+          {
+            "id": 749,
+            "title": "Solid Heavy Metal",
+            "colors": [
+              "#353734"
+            ]
+          },
+          {
+            "id": 726,
+            "title": "Solid Kelly Green",
+            "colors": [
+              "#009a48"
+            ]
+          },
+          {
+            "id": 727,
+            "title": "Solid Light Blue",
+            "colors": [
+              "#c5d8e4"
+            ]
+          },
+          {
+            "id": 733,
+            "title": "Solid Turquoise",
+            "colors": [
+              "#0082bf"
+            ]
+          },
+          {
+            "id": 729,
+            "title": "Solid Royal",
+            "colors": [
+              "#003479"
+            ]
+          },
+          {
+            "id": 736,
+            "title": "Solid Midnight Navy",
+            "colors": [
+              "#041e2f"
+            ]
+          },
+          {
+            "id": 721,
+            "title": "Solid Purple Rush",
+            "colors": [
+              "#512d7e"
+            ]
+          },
+          {
+            "id": 2339,
+            "title": "Solid Cardinal Red",
+            "colors": [
+              "#690026"
+            ]
+          },
+          {
+            "id": 712,
+            "title": "Solid Light Pink",
+            "colors": [
+              "#e8a0ad"
+            ]
+          },
+          {
+            "id": 711,
+            "title": "Solid Red",
+            "colors": [
+              "#cd032e"
+            ]
+          }
+        ],
+        "display_in_preview": true
+      },
+      {
+        "name": "Sizes",
+        "type": "size",
+        "values": [
+          {
+            "id": 14,
+            "title": "S"
+          },
+          {
+            "id": 15,
+            "title": "M"
+          },
+          {
+            "id": 16,
+            "title": "L"
+          },
+          {
+            "id": 17,
+            "title": "XL"
+          },
+          {
+            "id": 18,
+            "title": "2XL"
+          },
+          {
+            "id": 19,
+            "title": "3XL"
+          },
+          {
+            "id": 20,
+            "title": "4XL"
+          },
+          {
+            "id": 21,
+            "title": "5XL"
+          }
+        ],
+        "display_in_preview": false
+      }
+    ],
+    "variants": [
+      {
+        "id": 17391,
+        "sku": "18911816823180653943",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Heather Grey / S",
+        "grams": 93,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          831,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17392,
+        "sku": "28232738301947701057",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Heather Grey / M",
+        "grams": 13,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          831,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17393,
+        "sku": "31650319810721849386",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Heather Grey / L",
+        "grams": 142,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          831,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17394,
+        "sku": "25175998715833059456",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Heather Grey / XL",
+        "grams": 170,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          831,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17395,
+        "sku": "30042346818376077308",
+        "cost": 1567,
+        "price": 2239,
+        "title": "Heather Grey / 2XL",
+        "grams": 255,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          831,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17396,
+        "sku": "48537739301631363531",
+        "cost": 1731,
+        "price": 2473,
+        "title": "Heather Grey / 3XL",
+        "grams": 283,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          831,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17427,
+        "sku": "43375171099550137145",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid Black / S",
+        "grams": 93,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          750,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17428,
+        "sku": "19290834151498179762",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid Black / M",
+        "grams": 13,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          750,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17429,
+        "sku": "13208060274762469076",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid Black / L",
+        "grams": 142,
+        "is_enabled": true,
+        "is_default": true,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          750,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17430,
+        "sku": "56924287533147115641",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid Black / XL",
+        "grams": 170,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          750,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17431,
+        "sku": "60229694386072732372",
+        "cost": 1567,
+        "price": 2239,
+        "title": "Solid Black / 2XL",
+        "grams": 255,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          750,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17432,
+        "sku": "29484383333681968206",
+        "cost": 1731,
+        "price": 2473,
+        "title": "Solid Black / 3XL",
+        "grams": 283,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          750,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17433,
+        "sku": "29232988790403944807",
+        "cost": 1881,
+        "price": 2687,
+        "title": "Solid Black / 4XL",
+        "grams": 340,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          750,
+          20
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17481,
+        "sku": "25371376494127569108",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Heavy Metal / S",
+        "grams": 93,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          749,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17482,
+        "sku": "20171513664839167732",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Heavy Metal / M",
+        "grams": 13,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          749,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17483,
+        "sku": "20151496036460044449",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Heavy Metal / L",
+        "grams": 142,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          749,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17484,
+        "sku": "11553155951386962857",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Heavy Metal / XL",
+        "grams": 170,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          749,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17485,
+        "sku": "28549919416249847328",
+        "cost": 1567,
+        "price": 2612,
+        "title": "Solid Heavy Metal / 2XL",
+        "grams": 255,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          749,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17486,
+        "sku": "12456918751303168654",
+        "cost": 1731,
+        "price": 2885,
+        "title": "Solid Heavy Metal / 3XL",
+        "grams": 283,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          749,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17499,
+        "sku": "14794766402047768407",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid Natural / S",
+        "grams": 93,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          707,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17500,
+        "sku": "66413904173228538040",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid Natural / M",
+        "grams": 13,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          707,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17501,
+        "sku": "90675236000430290801",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid Natural / L",
+        "grams": 142,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          707,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17502,
+        "sku": "10981958805563976190",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid Natural / XL",
+        "grams": 170,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          707,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17503,
+        "sku": "26038911700719465243",
+        "cost": 1567,
+        "price": 2239,
+        "title": "Solid Natural / 2XL",
+        "grams": 255,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          707,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17504,
+        "sku": "49706334436493406457",
+        "cost": 1731,
+        "price": 2473,
+        "title": "Solid Natural / 3XL",
+        "grams": 283,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          707,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17508,
+        "sku": "30910253648652974455",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Kelly Green / S",
+        "grams": 93,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          726,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17509,
+        "sku": "17385874559057795154",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Kelly Green / M",
+        "grams": 13,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          726,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17510,
+        "sku": "22389695538839355388",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Kelly Green / L",
+        "grams": 142,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          726,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17511,
+        "sku": "32429998961486101843",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Kelly Green / XL",
+        "grams": 170,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          726,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17512,
+        "sku": "24233734416949559764",
+        "cost": 1567,
+        "price": 2612,
+        "title": "Solid Kelly Green / 2XL",
+        "grams": 255,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          726,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17513,
+        "sku": "28276610397970835232",
+        "cost": 1731,
+        "price": 2885,
+        "title": "Solid Kelly Green / 3XL",
+        "grams": 283,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          726,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17517,
+        "sku": "27435898503947067474",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid Light Blue / S",
+        "grams": 93,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          727,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17518,
+        "sku": "74149419011841650086",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid Light Blue / M",
+        "grams": 13,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          727,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17519,
+        "sku": "23758773551393595394",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid Light Blue / L",
+        "grams": 142,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          727,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17520,
+        "sku": "10688625770024240852",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid Light Blue / XL",
+        "grams": 170,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          727,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17521,
+        "sku": "25297562507953794248",
+        "cost": 1567,
+        "price": 2239,
+        "title": "Solid Light Blue / 2XL",
+        "grams": 255,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          727,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17522,
+        "sku": "26382230215058308646",
+        "cost": 1731,
+        "price": 2473,
+        "title": "Solid Light Blue / 3XL",
+        "grams": 283,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          727,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17526,
+        "sku": "23518477541575474318",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid Light Grey / S",
+        "grams": 93,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          743,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17527,
+        "sku": "18127185947453582669",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid Light Grey / M",
+        "grams": 13,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          743,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17528,
+        "sku": "80519111467785422175",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid Light Grey / L",
+        "grams": 142,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          743,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17529,
+        "sku": "25788034969597822719",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid Light Grey / XL",
+        "grams": 170,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          743,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17530,
+        "sku": "16099366602366799356",
+        "cost": 1567,
+        "price": 2239,
+        "title": "Solid Light Grey / 2XL",
+        "grams": 255,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          743,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17531,
+        "sku": "13606858923940254992",
+        "cost": 1731,
+        "price": 2473,
+        "title": "Solid Light Grey / 3XL",
+        "grams": 283,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          743,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17544,
+        "sku": "24520708047996046850",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Light Pink / S",
+        "grams": 93,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          712,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17545,
+        "sku": "29125549770985234143",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Light Pink / M",
+        "grams": 13,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          712,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17546,
+        "sku": "26375282140058148398",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Light Pink / L",
+        "grams": 142,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          712,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17547,
+        "sku": "23811168496992095002",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Light Pink / XL",
+        "grams": 170,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          712,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17548,
+        "sku": "28123946712154694666",
+        "cost": 1567,
+        "price": 2612,
+        "title": "Solid Light Pink / 2XL",
+        "grams": 255,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          712,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17549,
+        "sku": "14421758886582310395",
+        "cost": 1731,
+        "price": 2885,
+        "title": "Solid Light Pink / 3XL",
+        "grams": 283,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          712,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17562,
+        "sku": "27583973665770502447",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid Midnight Navy / S",
+        "grams": 93,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          736,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17563,
+        "sku": "21721120226769464678",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid Midnight Navy / M",
+        "grams": 13,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          736,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17564,
+        "sku": "17321124812323621663",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid Midnight Navy / L",
+        "grams": 142,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          736,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17565,
+        "sku": "18670805457892887838",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid Midnight Navy / XL",
+        "grams": 170,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          736,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17566,
+        "sku": "32855360556155785607",
+        "cost": 1567,
+        "price": 2239,
+        "title": "Solid Midnight Navy / 2XL",
+        "grams": 255,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          736,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17567,
+        "sku": "12384768660701402860",
+        "cost": 1731,
+        "price": 2473,
+        "title": "Solid Midnight Navy / 3XL",
+        "grams": 283,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          736,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17580,
+        "sku": "34692257541520930145",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Purple Rush / S",
+        "grams": 93,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          721,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17581,
+        "sku": "28990773526786377735",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Purple Rush / M",
+        "grams": 13,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          721,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17582,
+        "sku": "10030759270434868997",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Purple Rush / L",
+        "grams": 142,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          721,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17583,
+        "sku": "20052059207413680448",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Purple Rush / XL",
+        "grams": 170,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          721,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17584,
+        "sku": "13565463959023803986",
+        "cost": 1567,
+        "price": 2612,
+        "title": "Solid Purple Rush / 2XL",
+        "grams": 255,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          721,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17585,
+        "sku": "23459299884199762549",
+        "cost": 1731,
+        "price": 2885,
+        "title": "Solid Purple Rush / 3XL",
+        "grams": 283,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          721,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17589,
+        "sku": "22178471598317659513",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Red / S",
+        "grams": 93,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          711,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17590,
+        "sku": "94653045292866864795",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Red / M",
+        "grams": 13,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          711,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17591,
+        "sku": "19781700138465410397",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Red / L",
+        "grams": 142,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          711,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17592,
+        "sku": "21782865704594758530",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Red / XL",
+        "grams": 170,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          711,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17593,
+        "sku": "25316549838157205231",
+        "cost": 1567,
+        "price": 2612,
+        "title": "Solid Red / 2XL",
+        "grams": 255,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          711,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17594,
+        "sku": "99537358720969835618",
+        "cost": 1731,
+        "price": 2885,
+        "title": "Solid Red / 3XL",
+        "grams": 283,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          711,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17598,
+        "sku": "75620087305326359377",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Royal / S",
+        "grams": 93,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          729,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17599,
+        "sku": "30352939144353739694",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Royal / M",
+        "grams": 13,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          729,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17600,
+        "sku": "99082233370444436760",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Royal / L",
+        "grams": 142,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          729,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17601,
+        "sku": "28240960580436414093",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Royal / XL",
+        "grams": 170,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          729,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17602,
+        "sku": "17541111389945763085",
+        "cost": 1567,
+        "price": 2612,
+        "title": "Solid Royal / 2XL",
+        "grams": 255,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          729,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17603,
+        "sku": "12394098782724548622",
+        "cost": 1731,
+        "price": 2885,
+        "title": "Solid Royal / 3XL",
+        "grams": 283,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          729,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17625,
+        "sku": "84250733725177404128",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid Turquoise / S",
+        "grams": 93,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          733,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17626,
+        "sku": "16515102814201618326",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid Turquoise / M",
+        "grams": 13,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          733,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17627,
+        "sku": "18001259815729738371",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid Turquoise / L",
+        "grams": 142,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          733,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17628,
+        "sku": "22042898825131184305",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid Turquoise / XL",
+        "grams": 170,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          733,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17629,
+        "sku": "20069703652329834829",
+        "cost": 1567,
+        "price": 2239,
+        "title": "Solid Turquoise / 2XL",
+        "grams": 255,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          733,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17630,
+        "sku": "33605668854550305205",
+        "cost": 1731,
+        "price": 2473,
+        "title": "Solid Turquoise / 3XL",
+        "grams": 283,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          733,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17643,
+        "sku": "30656379130751800493",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid White / S",
+        "grams": 93,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          751,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17644,
+        "sku": "25091948467301703245",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid White / M",
+        "grams": 13,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          751,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17645,
+        "sku": "14541256095127401249",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid White / L",
+        "grams": 142,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          751,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17646,
+        "sku": "27874083440777850075",
+        "cost": 1381,
+        "price": 1973,
+        "title": "Solid White / XL",
+        "grams": 170,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          751,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17647,
+        "sku": "20424851655678214419",
+        "cost": 1567,
+        "price": 2239,
+        "title": "Solid White / 2XL",
+        "grams": 255,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          751,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17648,
+        "sku": "24962079323436203835",
+        "cost": 1731,
+        "price": 2473,
+        "title": "Solid White / 3XL",
+        "grams": 283,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          751,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 17649,
+        "sku": "25950981653689817053",
+        "cost": 1881,
+        "price": 2687,
+        "title": "Solid White / 4XL",
+        "grams": 340,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          751,
+          20
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 64932,
+        "sku": "15462724716109778335",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Cardinal Red / S",
+        "grams": 93,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2339,
+          14
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 64933,
+        "sku": "25519885458138401017",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Cardinal Red / M",
+        "grams": 13,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2339,
+          15
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 64934,
+        "sku": "26703243078912363010",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Cardinal Red / L",
+        "grams": 142,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2339,
+          16
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 64935,
+        "sku": "14532013958908195851",
+        "cost": 1381,
+        "price": 2302,
+        "title": "Solid Cardinal Red / XL",
+        "grams": 170,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2339,
+          17
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 64936,
+        "sku": "27603914296045540798",
+        "cost": 1567,
+        "price": 2612,
+        "title": "Solid Cardinal Red / 2XL",
+        "grams": 255,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2339,
+          18
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 64937,
+        "sku": "45748988064421430173",
+        "cost": 1731,
+        "price": 2885,
+        "title": "Solid Cardinal Red / 3XL",
+        "grams": 283,
+        "is_enabled": false,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          2339,
+          19
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 101781,
+        "sku": "25649415258130379593",
+        "cost": 2030,
+        "price": 2900,
+        "title": "Solid Black / 5XL",
+        "grams": 100,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          750,
+          21
+        ],
+        "quantity": 1
+      },
+      {
+        "id": 101810,
+        "sku": "69586347025686910838",
+        "cost": 2030,
+        "price": 2900,
+        "title": "Solid White / 5XL",
+        "grams": 100,
+        "is_enabled": true,
+        "is_default": false,
+        "is_available": true,
+        "is_printify_express_eligible": false,
+        "options": [
+          751,
+          21
+        ],
+        "quantity": 1
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images-api.printify.com/mockup/661d830e697c9a1c1e051ac4/17645/103295/mens-cotton-crew-tee.jpg?camera_label=front",
+        "variant_ids": [
+          17645,
+          17643,
+          17644,
+          17646,
+          17647,
+          17648,
+          17649,
+          101810
+        ],
+        "position": "front",
+        "is_default": true,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/661d830e697c9a1c1e051ac4/17645/103296/mens-cotton-crew-tee.jpg?camera_label=back",
+        "variant_ids": [
+          17645,
+          17643,
+          17644,
+          17646,
+          17647,
+          17648,
+          17649,
+          101810
+        ],
+        "position": "back",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/661d830e697c9a1c1e051ac4/17528/103295/mens-cotton-crew-tee.jpg?camera_label=front",
+        "variant_ids": [
+          17528,
+          17526,
+          17527,
+          17529,
+          17530,
+          17531
+        ],
+        "position": "front",
+        "is_default": true,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/661d830e697c9a1c1e051ac4/17528/103296/mens-cotton-crew-tee.jpg?camera_label=back",
+        "variant_ids": [
+          17528,
+          17526,
+          17527,
+          17529,
+          17530,
+          17531
+        ],
+        "position": "back",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/661d830e697c9a1c1e051ac4/17429/103295/mens-cotton-crew-tee.jpg?camera_label=front",
+        "variant_ids": [
+          17429,
+          17427,
+          17428,
+          17430,
+          17431,
+          17432,
+          17433,
+          101781
+        ],
+        "position": "front",
+        "is_default": true,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/661d830e697c9a1c1e051ac4/17429/103296/mens-cotton-crew-tee.jpg?camera_label=back",
+        "variant_ids": [
+          17429,
+          17427,
+          17428,
+          17430,
+          17431,
+          17432,
+          17433,
+          101781
+        ],
+        "position": "back",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/661d830e697c9a1c1e051ac4/17393/103295/mens-cotton-crew-tee.jpg?camera_label=front",
+        "variant_ids": [
+          17393,
+          17391,
+          17392,
+          17394,
+          17395,
+          17396
+        ],
+        "position": "front",
+        "is_default": true,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/661d830e697c9a1c1e051ac4/17393/103296/mens-cotton-crew-tee.jpg?camera_label=back",
+        "variant_ids": [
+          17393,
+          17391,
+          17392,
+          17394,
+          17395,
+          17396
+        ],
+        "position": "back",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/661d830e697c9a1c1e051ac4/17501/103295/mens-cotton-crew-tee.jpg?camera_label=front",
+        "variant_ids": [
+          17501,
+          17499,
+          17500,
+          17502,
+          17503,
+          17504
+        ],
+        "position": "front",
+        "is_default": true,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/661d830e697c9a1c1e051ac4/17501/103296/mens-cotton-crew-tee.jpg?camera_label=back",
+        "variant_ids": [
+          17501,
+          17499,
+          17500,
+          17502,
+          17503,
+          17504
+        ],
+        "position": "back",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/661d830e697c9a1c1e051ac4/17519/103295/mens-cotton-crew-tee.jpg?camera_label=front",
+        "variant_ids": [
+          17519,
+          17517,
+          17518,
+          17520,
+          17521,
+          17522
+        ],
+        "position": "front",
+        "is_default": true,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/661d830e697c9a1c1e051ac4/17519/103296/mens-cotton-crew-tee.jpg?camera_label=back",
+        "variant_ids": [
+          17519,
+          17517,
+          17518,
+          17520,
+          17521,
+          17522
+        ],
+        "position": "back",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/661d830e697c9a1c1e051ac4/17627/103295/mens-cotton-crew-tee.jpg?camera_label=front",
+        "variant_ids": [
+          17627,
+          17625,
+          17626,
+          17628,
+          17629,
+          17630
+        ],
+        "position": "front",
+        "is_default": true,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/661d830e697c9a1c1e051ac4/17627/103296/mens-cotton-crew-tee.jpg?camera_label=back",
+        "variant_ids": [
+          17627,
+          17625,
+          17626,
+          17628,
+          17629,
+          17630
+        ],
+        "position": "back",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/661d830e697c9a1c1e051ac4/17564/103295/mens-cotton-crew-tee.jpg?camera_label=front",
+        "variant_ids": [
+          17564,
+          17562,
+          17563,
+          17565,
+          17566,
+          17567
+        ],
+        "position": "front",
+        "is_default": true,
+        "is_selected_for_publishing": true,
+        "order": null
+      },
+      {
+        "src": "https://images-api.printify.com/mockup/661d830e697c9a1c1e051ac4/17564/103296/mens-cotton-crew-tee.jpg?camera_label=back",
+        "variant_ids": [
+          17564,
+          17562,
+          17563,
+          17565,
+          17566,
+          17567
+        ],
+        "position": "back",
+        "is_default": false,
+        "is_selected_for_publishing": true,
+        "order": null
+      }
+    ],
+    "created_at": "2024-04-15 19:42:06+00:00",
+    "updated_at": "2024-05-06 06:00:58+00:00",
+    "visible": true,
+    "is_locked": false,
+    "blueprint_id": 5,
+    "user_id": 17854626,
+    "shop_id": 15449454,
+    "print_provider_id": 29,
+    "print_areas": [
+      {
+        "variant_ids": [
+          17391,
+          17392,
+          17393,
+          17394,
+          17395,
+          17396,
+          17427,
+          17428,
+          17429,
+          17430,
+          17431,
+          17432,
+          17433,
+          17481,
+          17482,
+          17483,
+          17484,
+          17485,
+          17486,
+          17499,
+          17500,
+          17501,
+          17502,
+          17503,
+          17504,
+          17508,
+          17509,
+          17510,
+          17511,
+          17512,
+          17513,
+          17517,
+          17518,
+          17519,
+          17520,
+          17521,
+          17522,
+          17526,
+          17527,
+          17528,
+          17529,
+          17530,
+          17531,
+          17544,
+          17545,
+          17546,
+          17547,
+          17548,
+          17549,
+          17562,
+          17563,
+          17564,
+          17565,
+          17566,
+          17567,
+          17580,
+          17581,
+          17582,
+          17583,
+          17584,
+          17585,
+          17589,
+          17590,
+          17591,
+          17592,
+          17593,
+          17594,
+          17598,
+          17599,
+          17600,
+          17601,
+          17602,
+          17603,
+          17625,
+          17626,
+          17627,
+          17628,
+          17629,
+          17630,
+          17643,
+          17644,
+          17645,
+          17646,
+          17647,
+          17648,
+          17649,
+          64932,
+          64933,
+          64934,
+          64935,
+          64936,
+          64937,
+          101781,
+          101810
+        ],
+        "placeholders": [
+          {
+            "position": "back",
+            "images": []
+          },
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "661d8104a27bcedd5fa704e5",
+                "name": "d1.png",
+                "type": "image/png",
+                "height": 2000,
+                "width": 1556,
+                "x": 0.4999999999999997,
+                "y": 0.6082733730323501,
+                "scale": 1.0726698175634486,
+                "angle": 0
+              }
+            ]
+          },
+          {
+            "position": "neck",
+            "images": [
+              {
+                "id": "ae1fca9a-f8f6-3000-3fa8-8d96366bbfbd",
+                "name": "",
+                "type": "text/svg",
+                "height": 1,
+                "width": 1,
+                "x": 0.5,
+                "y": 0.35866378593366716,
+                "scale": 1.0000000000000002,
+                "angle": 0
+              },
+              {
+                "id": "5941187eb8e7e37b3f0e62e5",
+                "name": "text_layer.svg",
+                "type": "text/plain",
+                "height": 100,
+                "width": 100,
+                "x": 0.5,
+                "y": 0.5,
+                "scale": 1,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "font_color": "auto",
+        "font_family": "Roboto",
+        "background": "transparent"
+      }
+    ],
+    "print_details": [],
+    "sales_channel_properties": [],
+    "is_printify_express_eligible": false,
+    "is_printify_express_enabled": false,
+    "is_economy_shipping_eligible": true,
+    "is_economy_shipping_enabled": false
+  }
+]
